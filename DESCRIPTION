@@ -1,0 +1,12 @@
+Package: DepGraph
+Type: Package
+Title: An R package for creating dependency graphs between objects in specific environments
+Version: 0.1
+Date: 2016-04-26
+Author: Denise Senguel
+Maintainer: Denise Senguel <denisesenguel@gmail.com>
+Description: More about what it does (maybe more than one line)
+Depends: R (>= 3.2.3)
+License: GPL-3
+LazyData: TRUE
+Suggests: testthat
